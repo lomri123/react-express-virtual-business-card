@@ -1,0 +1,42 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.9.2",
+    "@material-ui/lab": "^4.0.0-alpha.42",
+    "axios": "^0.18.1",
+    "bootstrap": "^4.4.1",
+    "file-loader": "^5.0.2",
+    "font-awesome": "^4.7.0",
+    "formik": "^2.0.8",
+    "history": "4.7.2",
+    "qrcode.react": "^1.0.0",
+    "react": "^16.9.0",
+    "react-avatar-editor": "^12.0.0-beta.0",
+    "react-copy-to-clipboard": "^5.0.2",
+    "react-dom": "^16.9.0",
+    "react-fittext": "^1.0.0",
+    "react-modal": "^3.11.1",
+    "react-redux": "^7.0.2",
+    "react-router": "^5.0.1",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "1.1.4",
+    "react-snap": "^1.23.0",
+    "react-test-renderer": "^16.6.3",
+    "react-tooltip": "^4.0.3",
+    "redux": "^4.0.1",
+    "redux-auth-wrapper": "^2.1.0",
+    "redux-persist": "^5.10.0",
+    "redux-thunk": "^2.3.0",
+    "sweetalert2": "^7.25.6",
+    "url-loader": "^3.0.0",
+    "yup": "^0.28.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
